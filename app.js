@@ -46,7 +46,7 @@ const game = ()=>{
                 
                 }, 2000);
                 playerHand.style.animation = "shakeplayer 2s ease";
-                compuerHand.style.animation = "shakecomputer 2s ease";
+                computerHand.style.animation = "shakecomputer 2s ease";
                 
             });
         });  
